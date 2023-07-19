@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T08:05:47.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.2" etag="y6Gvj8mmRQVazI5YJbW5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T08:07:28.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CjDFE8CMK7kgXJ5hz5EU" version="21.6.2" type="github">
   <diagram name="第 1 页" id="HLR3lCyB7G8IAte2ZGqh">
-    <mxGraphModel>
+    <mxGraphModel dx="1221" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MFuD_3IndvZJSuWtwGo4-1" value="领域论文DOI获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="10" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MFuD_3IndvZJSuWtwGo4-3" value="PaperScraper论文爬取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
